@@ -1,0 +1,129 @@
+{
+  "siteTitle": "Nobert Wafula Portfolio",
+  "owner": "Nobert Wafula",
+  "hero": {
+    "greeting": "Hello, I'm",
+    "name": "Nobert Wafula",
+    "title": "Aspiring Data Scientist & AI Enthusiast",
+    "tagline": "Transforming raw data into actionable insights",
+    "cta": [
+      { "label": "View Projects", "href": "#projects" },
+      { "label": "Contact Me", "href": "#contact" }
+    ],
+    "social": [
+      { "platform": "LinkedIn", "url": "https://www.linkedin.com/in/enock-bereka/" },
+      { "platform": "GitHub", "url": "https://github.com/Biosticianenoch" },
+      { "platform": "Twitter", "url": "https://x.com/biostician" }
+    ]
+  },
+  "about": {
+    "image": "profile.jpg",
+    "resume": "Nobert_Wafula_CV.pdf",
+    "description": [
+      "Driven by an insatiable curiosity and a relentless commitment to solving complex health challenges, I am a passionate lifelong learner in the field of data science, biostatistics, and epidemiology. My journey is fueled by the belief that data holds the power to transform healthcare and public health, bridging the gap between research and real-world impact.",
+      "With expertise spanning machine learning, time series analysis, survival analysis, and epidemiologic modeling, I thrive on extracting meaningful insights that drive informed decision-making. From data collection and cleaning to visualization and predictive modeling, I harness the power of R, SQL, Python, STATA, MySQL, SPSS, and Excel to develop innovative solutions. Whether building intuitive dashboards, crafting powerful models, or conducting in-depth clinical research, I am dedicated to uncovering patterns that shape the future of health.",
+      "My passion extends to artificial intelligence, deep learning, forecasting, spatial statistics, and infectious disease modeling, pushing the boundaries of innovation in healthcare. Every dataset tells a story, and I am committed to translating complex findings into actionable strategies that make a difference. Through rigorous analysis, impactful reporting, and a drive for continuous learning, I aim to transform data into solutions that improve lives.",
+      "The intersection of data science and public health is where real change happens. I am here to turn numbers into narratives, insights into action, and possibilities into realities."
+    ]
+  },
+  "skills": [
+    { "name": "Python", "level": 90 },
+    { "name": "R", "level": 85 },
+    { "name": "SQL", "level": 95 },
+    { "name": "SPSS", "level": 80 },
+    { "name": "Dedoose", "level": 60 },
+    { "name": "Power BI", "level": 88 },
+    { "name": "Health Research", "level": 75 },
+    { "name": "Disease Modeling", "level": 60 },
+    { "name": "Communication Skills", "level": 70 },
+    { "name": "Data Cleaning", "level": 70 },
+    { "name": "Statistical Modeling", "level": 90 },
+    { "name": "STATA", "level": 70 },
+    { "name": "Advanced Excel", "level": 60 }
+  ],
+  "tools": [
+    { "name": "Python", "icon": "fab fa-python" },
+    { "name": "SQL", "icon": "fas fa-database" },
+    { "name": "Tableau", "icon": "fas fa-chart-bar" },
+    { "name": "Power BI", "icon": "fas fa-chart-pie" },
+    { "name": "Machine Learning", "icon": "fas fa-brain" },
+    { "name": "Big Data", "icon": "fas fa-server" }
+  ],
+  "projects": [
+    {
+      "title": "Risk Factor Analysis of stroke",
+      "image": "stroke.jpg",
+      "category": "analysis"
+    },
+    {
+      "title": "Risk Factor analysis of Diabetes",
+      "image": "Diabetes.jpg",
+      "category": "analysis"
+    },
+    {
+      "title": "TB Incidence Forecasting in Guanxi China",
+      "image": "tb.jpg",
+      "category": "analysis"
+    },
+    {
+      "title": "Survival Analysis for liver cirrhosis",
+      "image": "survival.jpg",
+      "category": "analysis"
+    },
+    {
+      "title": "Uptake of Modern Contraceptives in Bayelsa state Nigeria",
+      "image": "contra.jpg",
+      "category": "analysis"
+    }
+  ],
+  "allProjectsUrl": "https://github.com/Biosticianenoch",
+  "education": [
+    {
+      "institution": "Data Community Africa",
+      "image": "data.jpeg",
+      "description": "Data Scientist Student at Data Community Africa"
+    },
+    {
+      "institution": "Masinde Muliro University of Science and Technology",
+      "image": "masinde.png",
+      "description": "Bachelor of Science in Epidemiology and Biostatistics"
+    },
+    {
+      "institution": "High School Education",
+      "image": "kimaeti.png",
+      "description": "Bishop Atundo Boys Kimaeti"
+    }
+  ],
+  "contact": {
+    "email": "enochosenwafulah@gmail.com",
+    "phone": "+254 701 344 230",
+    "location": "Lurambi, Kakamega",
+    "social": [
+      { "platform": "LinkedIn", "url": "https://www.linkedin.com/in/enock-bereka/" },
+      { "platform": "GitHub", "url": "https://github.com/Biosticianenoch" },
+      { "platform": "Twitter", "url": "https://x.com/biostician" }
+    ]
+  },
+  "footer": {
+    "logo": "EnockBereka",
+    "tagline": "Transforming data into actionable insights",
+    "navigation": [
+      { "label": "Home", "href": "#home" },
+      { "label": "About", "href": "#about" },
+      { "label": "Skills", "href": "#skills" },
+      { "label": "Projects", "href": "#projects" },
+      { "label": "Contact", "href": "#contact" }
+    ],
+    "services": [
+      "Data Analysis",
+      "Data Visualization",
+      "Predictive Modeling",
+      "Dashboard Creation",
+      "Consulting"
+    ],
+    "newsletter": {
+      "description": "Stay updated with the latest in data analytics"
+    },
+    "copyright": "© 2025  Nobert Wafula | Data Analyst Portfolio"
+  }
+}
